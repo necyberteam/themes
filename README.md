@@ -7,3 +7,5 @@ Nect-D8 site themes location:
 
 CaC19 site themes location:
 /var/www/covid19/
+
+Always make sure to test changes in clone sites before pushing to production.
